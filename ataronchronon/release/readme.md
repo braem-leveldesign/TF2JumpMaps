@@ -1,5 +1,9 @@
 # jump_ataronchronon
 
+## B2 Playable on the Tempus Network!
+
+[https://tempus.xyz/maps/jump_ataronchronon_b2](https://tempus.xyz/maps/jump_ataronchronon_b2)
+
 [https://jump.tf/forum/index.php/topic,2754.0.html](https://jump.tf/forum/index.php/topic,2754.0.html)
 
 ## Screenshots
