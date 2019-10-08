@@ -8,6 +8,6 @@
 
 ## Screenshots
 
-![alt text](https://i.imgur.com/undefined.png)
+![alt text](https://i.imgur.com/P8y3FSZ.png)
 ![alt text](https://i.imgur.com/4LqD4M4.png)
 ![alt text](https://i.imgur.com/qSkurpK.png)
