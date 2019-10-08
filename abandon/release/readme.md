@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/961970710257184954/F01A9EDC7354D54E6BACEE7BFF40B551FE10C4ED/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/961970710257187299/36520369093D8983E69AEE1C84E16493AA3E82B4/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/961970710257186329/5D9876720AA6C046E6561760382FF1E63FA208B6/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/961970710257189321/D05AAE945884B5BE196B1278C479AA2C3C05F75E/)
+![alt text](https://i.imgur.com/TIK8acj.png)
+![alt text](https://i.imgur.com/IT7THLJ.png)
+![alt text](https://i.imgur.com/jp8BiuP.png)
+![alt text](https://i.imgur.com/pOOzpZP.png)
