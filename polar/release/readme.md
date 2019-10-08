@@ -8,6 +8,6 @@
 
 ## Screenshots
 
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/934931119193145831/C595D355AE78B2BD4BC8FBBD88ACBE3398A4965B/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/934931119193145743/D0E63B918998569A79A3098F1C679B47AEA8EFC6/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/934931119193145916/88C1EFD830B5F8B00DD9349728CB0BF647BBEB9B/)
+![alt text](https://i.imgur.com/undefined.png)
+![alt text](https://i.imgur.com/4LqD4M4.png)
+![alt text](https://i.imgur.com/qSkurpK.png)
