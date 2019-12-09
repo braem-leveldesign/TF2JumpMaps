@@ -1,5 +1,7 @@
 # jump_maso
 
+Made in collaboration with Syro & Fishy
+
 ## Playable on the Tempus Network!
 
 [https://tempus.xyz/maps/jump_maso](https://tempus.xyz/maps/jump_maso)
