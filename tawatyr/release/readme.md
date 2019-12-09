@@ -1,10 +1,10 @@
 # jump_tawatyr
 
-## Playable on the Tempus Network!
+## Now Playable on the Tempus Network!
 
 [https://tempus.xyz/maps/jump_tawatyr](https://tempus.xyz/maps/jump_tawatyr)
 
-[https://jump.tf/forum/index.php/topic,2835.0.html](https://jump.tf/forum/index.php/topic,2835.0.html)
+[https://jump.tf/forum/index.php/topic,2835](https://jump.tf/forum/index.php/topic,2835)
 
 ## Screenshots
 
