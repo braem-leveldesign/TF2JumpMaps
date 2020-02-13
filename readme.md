@@ -6,7 +6,9 @@ Jump is a niche community in Team Fortress 2 akin to surfing in the Counterstrik
 
 ## Important Links
 
-[Jumptf](https://jump.tf/)
+[My Website](http://braebie.com/mapping.html)
+
+[JumpTF](https://jump.tf/)
 
 [Tempus Network](https://tempus.xyz/)
 
@@ -15,6 +17,8 @@ Jump is a niche community in Team Fortress 2 akin to surfing in the Counterstrik
 [New Maps Thread](https://jump.tf/forum/index.php/board,2.0.html)
 
 ## My Maps
+
+[jump_byhicrine](https://github.com/braem/TF2JumpMaps/tree/master/byhicrine/release)
 
 [jump_tawatyr](https://github.com/braem/TF2JumpMaps/tree/master/tawatyr/release)
 
