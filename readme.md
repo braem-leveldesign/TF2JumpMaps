@@ -18,6 +18,8 @@ Jump is a niche community in Team Fortress 2 akin to surfing in the Counterstrik
 
 ## My Maps
 
+[jump_triangle](https://github.com/braem/TF2JumpMaps/tree/master/triangle/release)
+
 [jump_byhicrine](https://github.com/braem/TF2JumpMaps/tree/master/byhicrine/release)
 
 [jump_tawatyr](https://github.com/braem/TF2JumpMaps/tree/master/tawatyr/release)
