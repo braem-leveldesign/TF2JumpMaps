@@ -4,3 +4,8 @@
 
 ## Screenshots
 
+![alt text](https://i.imgur.com/YRB1XMt.png)
+![alt text](https://i.imgur.com/OVCeKB6.png)
+![alt text](https://i.imgur.com/PR8csWT.png)
+
+See more here [https://imgur.com/a/1qzJr2y](https://imgur.com/a/1qzJr2y)
